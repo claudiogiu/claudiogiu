@@ -39,7 +39,7 @@ Feel free to reach out—whether to share insights, brainstorm new concepts, or 
 </p>
 
 <p>
-<a target="_blank" href="https://www.linkedin.com/in/claudio-domenico-giuliani-7a674431a"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/claudio-domenico-giuliani"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 </p>
 
 
