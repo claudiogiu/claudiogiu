@@ -6,7 +6,7 @@
 I thrive on building smart solutions, optimizing ML models, and turning data into powerful insights. Whether it's scaling AI in the cloud or crafting meaningful visualizations, I'm always ready to push boundaries and innovate. </p>
 
 
-<h2>🛠️ Languages and Tools I Use</h2>
+<h2>🛠️ Technical Stack</h2>
 <p>
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
@@ -29,6 +29,12 @@ I thrive on building smart solutions, optimizing ML models, and turning data int
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
 <a target="_blank" href="https://github.com/gilbarbara/logos/blob/main/logos/fastapi-icon.svg"><img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi-icon.svg" alt="fastapi" width="42" height="42" /></a>
+<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="42" height="42" />
+</a>
+
+
+
 
 </p>
 
