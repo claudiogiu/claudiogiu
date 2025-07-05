@@ -1,9 +1,7 @@
 <h1>Hi 👋, I'm Claudio Domenico Giuliani</h1>
 
 <h2>👨‍💻 About Me</h2>
-<p>I'm a Data Scientist & AI Specialist fueled by a love for all things machine learning and data-driven decision-making. My mission? Making AI less intimidating and more impactful for everyone!
-
-I thrive on building smart solutions, optimizing ML models, and turning data into powerful insights. Whether it's scaling AI in the cloud or crafting meaningful visualizations, I'm always ready to push boundaries and innovate. </p>
+<p>I specialize in crafting smart, scalable AI solutions that don’t just work—they work well. From messy raw data to models that can handle real-world chaos, I’m hands-on across the entire AI/ML pipeline. With a toolbox full of Python, big data tech, and a solid grip on distributed computing, I turn machine learning and deep learning experiments into production-ready, inference-hardened systems—no Jupyter-only magic tricks here! </p>
 
 
 <h2>🛠️ Technical Stack</h2>
